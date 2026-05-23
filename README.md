@@ -173,4 +173,4 @@ int main()
 
 ## OUTPUT
 
-<img width="384" height="816" alt="Screenshot 2026-05-23 203707" src="https://github.com/user-attachments/assets/46d34bc7-d7ee-4e31-9471-da9b757d5223" />
+<img width="267" height="828" alt="image" src="https://github.com/user-attachments/assets/50856b24-b9d2-4cdc-a0a3-6c41346d69ad" />
