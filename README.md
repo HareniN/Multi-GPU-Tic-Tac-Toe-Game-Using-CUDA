@@ -174,3 +174,7 @@ int main()
 ## OUTPUT
 
 <img width="267" height="828" alt="image" src="https://github.com/user-attachments/assets/50856b24-b9d2-4cdc-a0a3-6c41346d69ad" />
+
+## RESULT
+
+The CUDA-based Tic-Tac-Toe game was successfully implemented and executed. The GPUs were able to take turns automatically, select valid moves, and display the updated game board after each turn. The project demonstrated basic multi-GPU game design concepts using CUDA kernels and parallel processing.
