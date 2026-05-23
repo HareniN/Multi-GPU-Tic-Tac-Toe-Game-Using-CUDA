@@ -1,4 +1,4 @@
-## TITLE : Multi-GPU Tic-Tac-Toe Game Using CUDA
+## Multi-GPU Tic-Tac-Toe Game Using CUDA
 
 ## DESCRIPTION
 
